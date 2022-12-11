@@ -6,7 +6,7 @@
   <link href="https://zhongkang97.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhongkang97.github.io/"/>
-  <updated>2022-12-11T15:14:55.426Z</updated>
+  <updated>2022-12-11T15:24:58.838Z</updated>
   <id>https://zhongkang97.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>pico-go test</title>
     <link href="https://zhongkang97.github.io/post/0.html"/>
     <id>https://zhongkang97.github.io/post/0.html</id>
     <published>2022-12-11T15:09:36.709Z</published>
-    <updated>2022-12-11T15:14:55.426Z</updated>
+    <updated>2022-12-11T15:24:58.838Z</updated>
     
     <content type="html"><![CDATA[<h1 id="这是一个测试用例，用于测试图床是否正确显示"><a href="#这是一个测试用例，用于测试图床是否正确显示" class="headerlink" title="这是一个测试用例，用于测试图床是否正确显示"></a>这是一个测试用例，用于测试图床是否正确显示</h1><p><img src="https://zhongkang97.oss-cn-hangzhou.aliyuncs.com/blog/fox_head.jpg" alt="fox_head" title="狐狸头"></p>]]></content>
     
@@ -33,6 +33,10 @@
     
     
     
+    <category term="pico-go" scheme="https://zhongkang97.github.io/categories/pico-go/"/>
+    
+    
+    <category term="pic" scheme="https://zhongkang97.github.io/tags/pic/"/>
     
   </entry>
   
